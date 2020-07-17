@@ -1,4 +1,4 @@
-class person
+class Person
   
   def talk
     
@@ -13,7 +13,7 @@ class person
   end
 end
 
-ada = person.new 
+ada = Person.new 
 
 ada.talk
 
